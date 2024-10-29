@@ -17,7 +17,7 @@ data,we seek to identify trends, make data-driven recommendations, and gain a de
 
 ### Data Sources
 
-Manufacture report table: The primary dataset used for this analysis is the "manufacture_report.csv" file,containing detailed information about each revenue made by the hotels.
+Manufacture report table: The primary dataset used for this analysis is the "manufacture_report.csv" file,containing detailed information about each manufactured products made by the machines and employees.
 
 ### Tools
 
@@ -31,7 +31,7 @@ Manufacture report table: The primary dataset used for this analysis is the "man
  
  In the initial data preparationphase, we performed the following tasks:
  1. Data loading and inspection.
- 2. Handling missing values.
+ 2. Handling missing values and datatype.
  3. Data cleaning and formatting. 
 
 ### Exploratory Data Analysis
