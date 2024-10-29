@@ -1,4 +1,4 @@
-# Hospitality-Analytics
+# Manufacture-Analytics
 ------
 
 ## Table of contents
@@ -13,7 +13,7 @@ This data analysis project aims to provide insights into the product manufacure 
 data,we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the manufacture industries performance.
 
 ![DASHBOARD]![manufacture PBI](https://github.com/user-attachments/assets/38077f37-b3d1-4eb9-82e1-33677b07db88)
-
+![DASHBOARD]![Screenshot TABLEAU manufacture](https://github.com/user-attachments/assets/5c44bfdf-dd39-4624-b28c-2fac829fca8f)
 
 ### Data Sources
 
