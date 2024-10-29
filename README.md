@@ -75,10 +75,7 @@ Based on the analysis, we recommend the following actions:
 - Employee Training: Provide targeted training to EM237 and EM947, and monitor top rejectors.
   With these improvements, we can significantly reduce rejection rates, improve overall efficiency, and increase profitability.
  
-![image](https://github.com/user-attachments/assets/4faed1f5-634a-437f-8fcc-130853e90b30)
-
-
- ### Limitations
+### Limitations
 
   I had to remove all zero values from manufacture columns becuase they would have affected the accuracy of my conclusions from the analysis.There are still a few outliers even after the omissions but even then we can still see that there is a positive correlation between both manufacture and number of votes with rejects.
   
