@@ -12,7 +12,7 @@
 This data analysis project aims to provide insights into the product manufacure performanace of an industry over the months.By analysing various aspects of the manufactured
 data,we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the manufacture industries performance.
 
-![DASHBOARD](https://github.com/user-attachments/assets/c1045e9b-67dc-41f7-8e44-4a0d3072c875)
+![DASHBOARD]("C:\Users\user\Pictures\Screenshots\manufacture PBI.png")
 
 
 ### Data Sources
